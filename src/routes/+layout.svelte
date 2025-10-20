@@ -37,7 +37,7 @@
 			<Search placeholder="Search products..." />
 		{/if}
 
-		<Button size="md" href="/login">Login</Button>
+		<Button size="xs" href="/login">Login</Button>
 		
 	{/snippet}
 </Navbar>
